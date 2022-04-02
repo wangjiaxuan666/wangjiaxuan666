@@ -2,9 +2,12 @@
 
 <em><b> A person with interest as motivation. </b></em>
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangjiaxuan666&layout=compact&hide=javascript,html,css,scss">](https://github.com/wangjiaxuan666/)
+
+<!--
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wangjiaxuan666&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wangjiaxuan666&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
-
+-->
 [You can browse my blog in chinese to know me better](https://abego.cn).
 
 - 🔭 Bioinformation Engineer work in BGI,Shenzhen
@@ -16,6 +19,5 @@
 ---
 
 ## My Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangjiaxuan666&layout=compact&hide=javascript,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 **My Todoist Stats: ⬇️**
