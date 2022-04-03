@@ -9,10 +9,10 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wangjiaxuan666&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 -->
 
-[You can browse my blog in chinese to know me better](https://abego.cn).
+<a href="https://abego.cn" target="_blank" >You can browse my blog in chinese to know me better</a>
 
 - 🔭 Bioinformation Engineer work in BGI,Shenzhen
-- 🌱 NGS,Biology
-- :key: Meta,Virus Genome,Epitomics,scRNA and Spatial Omics
+- 🌱 NGS/ Biology/
+- :key: Meta, Genome,Epitomics,scRNA and Spatial Omics
 - :package: Code with R, Python ,shell and WDL
-- ❤️ Interested in data visualization
+- :guitar: Interested in data visualization
