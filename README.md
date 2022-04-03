@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://abego.cn" target="_blank">Wang Jiaxuan(王家轩)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup><img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
+## Hi, 👋  I'm <a href="https://abego.cn" target="_blank">Wang Jiaxuan(王家轩)</a> <sup>
 
 <em><b> A person with interest as motivation. </b></em>
 
