@@ -16,7 +16,7 @@
 - :key: Meta, Genome,Epitomics,scRNA and Spatial Omics
 - :package: Code with R, Python ,shell and WDL
 - :guitar: Interested in data visualization
-r
+
 - 📫 Reach me email **poormouse@126.com**
 - 📄 Know about my experiences [https://abego.cn/resume/](https://abego.cn/resume/)
   
