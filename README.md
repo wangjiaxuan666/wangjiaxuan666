@@ -11,7 +11,7 @@
 
 <a href="https://abego.cn" target="_blank" >You can browse my blog in chinese to know me better</a>
 
-- 🔭 Bioinformation Engineer work in BGI,Shenzhen
+- 🔭 Bioinformation Engineer work in Zhujiang Hospital of SMU, Guangzhou, China
 - 🌱 NGS/ Biology/Aesthetician
 - :key: Meta, Genome,Epitomics,scRNA and Spatial Omics
 - :package: Code with R, Python ,shell and WDL
